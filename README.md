@@ -1,4 +1,4 @@
-# converso
+# conversor de moedas
 
 ## Project setup
 ```
